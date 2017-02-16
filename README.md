@@ -1,2 +1,3 @@
-# Case_Study_01_Regression
-Work with John and Megan
+# Regression Case Study
+## Auction pricing prediction
+
